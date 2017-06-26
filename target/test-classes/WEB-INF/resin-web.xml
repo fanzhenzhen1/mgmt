@@ -1,0 +1,13 @@
+<web-app id="mgmt-1.0-SNAPSHOT">
+    <jsp fast-jstl="false"/>
+
+    <!--database>
+        <jndi-name>jdbc/appfuse</jndi-name>
+        <driver type="com.mysql.jdbc.Driver">
+            <url>jdbc:mysql://192.168.1.253:3308/mgmt?createDatabaseIfNotExist=true&amp;useUnicode=true&amp;characterEncoding=utf-8&amp;autoReconnect=true</url>
+            <user>ab2c</user>
+            <password>ab2cd</password>
+        </driver>
+    </database-->
+</web-app>
+
